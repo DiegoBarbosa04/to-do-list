@@ -1,6 +1,7 @@
 # To Do List
 
 Este é um projeto de To-Do List desenvolvido com ReactJS, Tailwind CSS e JavaScript.
+<p>🔗 Acesse o projeto online: https://to-do-list-dg.netlify.app</p>
 
 
 ---
